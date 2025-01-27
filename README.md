@@ -26,8 +26,10 @@
 
 # Basys 3 Artix-7 Fpga Development Board
 
-  ![image](https://github.com/user-attachments/assets/8c443498-926e-47df-a280-cfe5fcf6c63b)   \
-  **The lab assignment focuses on the design and implementation of a 16-bit Carry Look-Ahead Adder (CLA) using VHDL on the Basys3 FPGA. The project involves creating design code, test benches, and simulating various test cases to verify functionality. A comparison of the Ripple-Carry Adder (RCA) and CLA highlights the significant reduction in delay and area for the CLA implementation.**
+  ![image](https://github.com/user-attachments/assets/8c443498-926e-47df-a280-cfe5fcf6c63b)     
+  
+  **The lab assignment focuses on the design and implementation of a 16-bit Carry Look-Ahead Adder (CLA) using VHDL on the Basys3 FPGA. The project involves creating design code, test benches, and 
+    simulating various test cases to verify functionality. A comparison of the Ripple-Carry Adder (RCA) and CLA highlights the significant reduction in delay and area for the CLA implementation.**
 
 # Project -1  
 ## Gesture and Sign Detection Communication System  
