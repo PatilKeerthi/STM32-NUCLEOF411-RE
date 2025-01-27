@@ -42,8 +42,9 @@
 
       
     
-  <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/1db77bf6e1d190486a910e12aaec24b06f994a56/Project-1.pdf">PROJECT-1</a> :**Gesture recognition interprets hand signals, converting them into meaningful messages.Voice conversion enables audible feedback for users with speech impairments.Integrated hardware provides real-time interaction, enhancing communication and safety.**
+  <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/1db77bf6e1d190486a910e12aaec24b06f994a56/Project-1.pdf">PROJECT-1</a> : **Gesture recognition interprets hand signals, converting them into meaningful messages.Voice conversion enables audible feedback for users with speech impairments.Integrated hardware provides real-time interaction, enhancing communication and safety.**  
 
+**PROJECT-1 PRESENTATION:** https://drive.google.com/file/d/1lqgu6l0Ze06dpwbDRCX	ad4uvVuAY3N/vie w?usp=sharing
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project -2  
@@ -54,4 +55,4 @@
   
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/7959cf73-d70d-414a-a318-33da9b675559" />
 
-<a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/0b6bb26343a02ad7a71c7b8fb3f2b9c473ecb7a8/Project-2.pdf">PROJECT-2</a>:**The project involves developing an energy monitoring system using the ESP32 microcontroller, ZMPT101B voltage sensor, and SCT-013 current sensor to measure real-time energy parameters. Data is processed and displayed through the Blynk app for remote monitoring and control. Challenges include component mismatches, sensor calibration, and noise interference during data collection.**
+<a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/0b6bb26343a02ad7a71c7b8fb3f2b9c473ecb7a8/Project-2.pdf">PROJECT-2</a> : **The project involves developing an energy monitoring system using the ESP32 microcontroller, ZMPT101B voltage sensor, and SCT-013 current sensor to measure real-time energy parameters. Data is processed and displayed through the Blynk app for remote monitoring and control. Challenges include component mismatches, sensor calibration, and noise interference during data collection.**
