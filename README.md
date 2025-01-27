@@ -61,6 +61,5 @@
 
 <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/0b6bb26343a02ad7a71c7b8fb3f2b9c473ecb7a8/Project-2.pdf">PROJECT-2</a> : **The project involves developing an energy monitoring system using the ESP32 microcontroller, ZMPT101B voltage sensor, and SCT-013 current sensor to measure real-time energy parameters. Data is processed and displayed through the Blynk app for remote monitoring and control. Challenges include component mismatches, sensor calibration, and noise interference during data collection.** 
 
---------------------------------------------------------------------------------------------------------------------------------------------------------------  
 
 
