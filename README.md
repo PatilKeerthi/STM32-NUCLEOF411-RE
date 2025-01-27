@@ -44,7 +44,11 @@
     
   <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/1db77bf6e1d190486a910e12aaec24b06f994a56/Project-1.pdf">PROJECT-1</a> : **Gesture recognition interprets hand signals, converting them into meaningful messages.Voice conversion enables audible feedback for users with speech impairments.Integrated hardware provides real-time interaction, enhancing communication and safety.**  
 
-**PROJECT-1 PRESENTATION:** https://drive.google.com/file/d/1lqgu6l0Ze06dpwbDRCXad4uvVuAY3N/vie w?usp=sharing
+
+
+
+**PROJECT-1 PRESENTATION:** https://drive.google.com/file/d/1lqgu6l0Ze06dpwbDRCX__ad4uvVuAY3N/view   
+
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project -2  
