@@ -35,8 +35,9 @@
 # Project -1  
 ## Gesture and Sign Detection Communication System  
   
-   <img width="464" alt="image" src="https://github.com/user-attachments/assets/65c44477-c185-453b-822e-86a0657f4103" />   
-    <img width="374" alt="image" src="https://github.com/user-attachments/assets/bc84dbcc-6fea-4b34-831b-c44cd37e1e3b" />
+   <img width="464" alt="image" src="https://github.com/user-attachments/assets/65c44477-c185-453b-822e-86a0657f4103" />    
+    <img width="374" alt="image" src="https://github.com/user-attachments/assets/bc84dbcc-6fea-4b34-831b-c44cd37e1e3b" />   
+    
   <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/1db77bf6e1d190486a910e12aaec24b06f994a56/Project-1.pdf">PROJECT-1</a>
 
 # Project -2  
@@ -47,4 +48,4 @@
   
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/7959cf73-d70d-414a-a318-33da9b675559" />
 
-
+<a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/0b6bb26343a02ad7a71c7b8fb3f2b9c473ecb7a8/Project-2.pdf">PROJECT-2</a>
