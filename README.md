@@ -36,7 +36,7 @@
 ## Gesture and Sign Detection Communication System  
   
    <img width="464" alt="image" src="https://github.com/user-attachments/assets/65c44477-c185-453b-822e-86a0657f4103" />    
-    <img width="374" alt="image" src="https://github.com/user-attachments/assets/bc84dbcc-6fea-4b34-831b-c44cd37e1e3b" />     
+    <img width="374" alt="image" src="https://github.com/user-attachments/assets/bc84dbcc-6fea-4b34-831b-c44cd37e1e3b" />        
 
       
     
