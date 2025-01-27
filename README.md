@@ -28,4 +28,8 @@
 
   ![image](https://github.com/user-attachments/assets/8c443498-926e-47df-a280-cfe5fcf6c63b)
 
+# Project -1  
+## Gesture and Sign Detection Communication System
+   ![image](https://github.com/user-attachments/assets/96b77a46-970b-40df-9823-8acb5b918842)
+
 
