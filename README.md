@@ -39,7 +39,8 @@
 # Project -2  
 ## Smart Energy monitoring system using ESP32 and Blynk  
 
-<img width="395" alt="image" src="https://github.com/user-attachments/assets/53dd7508-df19-4ca9-9598-81b900ae8e70" />     
+<img width="395" alt="image" src="https://github.com/user-attachments/assets/53dd7508-df19-4ca9-9598-81b900ae8e70" />        
+
   
 <img width="451" alt="image" src="https://github.com/user-attachments/assets/7959cf73-d70d-414a-a318-33da9b675559" />
 
