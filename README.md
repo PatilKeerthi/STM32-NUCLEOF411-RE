@@ -32,9 +32,8 @@
 ## Gesture and Sign Detection Communication System  
   
    <img width="464" alt="image" src="https://github.com/user-attachments/assets/65c44477-c185-453b-822e-86a0657f4103" />   
-   
-
-   ![image](https://github.com/user-attachments/assets/96b77a46-970b-40df-9823-8acb5b918842)   
+    <img width="374" alt="image" src="https://github.com/user-attachments/assets/bc84dbcc-6fea-4b34-831b-c44cd37e1e3b" />
+ 
 
 # Project -2  
 ## Smart Energy monitoring system using ESP32 and Blynk  
