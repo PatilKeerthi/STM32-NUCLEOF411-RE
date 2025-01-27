@@ -5,4 +5,8 @@
 
 <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/2133baebc04678125dce5039b8117656c939f33f/LAB2.pdf">LAB-2</a> :**This lab explores GPIO and ADC functionality using the Nucleo-F411RE board. Experiments include LED blinking with a push button, LED control using an LDR (via ADC), and combining both for conditional control. It demonstrates how digital and analog inputs can drive outputs based on specific thresholds and configurations.**   
 
-https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/4b25f885f293524c86e3e1d372195d1391d140bf/LAB3.pdf
+https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/4b25f885f293524c86e3e1d372195d1391d140bf/LAB3.pdf  
+
+https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/b5995d207a7812cc77d3ce784008aee8365b37f9/LAB4.pdf 
+
+
