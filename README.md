@@ -42,6 +42,7 @@
     
   <a href="https://github.com/PatilKeerthi/STM32-NUCLEOF411-RE/blob/1db77bf6e1d190486a910e12aaec24b06f994a56/Project-1.pdf">PROJECT-1</a> :**Gesture recognition interprets hand signals, converting them into meaningful messages.Voice conversion enables audible feedback for users with speech impairments.Integrated hardware provides real-time interaction, enhancing communication and safety.**
 
+--------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 # Project -2  
 ## Smart Energy monitoring system using ESP32 and Blynk  
